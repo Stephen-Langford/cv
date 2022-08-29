@@ -1,0 +1,36 @@
+
+  body {
+    background-color: #1a1a1d;
+    margin: auto;
+    width:95%;
+  }
+
+  li {
+    color:#6f2232;
+    /*Bullet color*/
+  }
+
+  p, h1, h2, li span, td, em, a {
+    font-family: ariel,sans-serif;
+    color: white;
+  }
+
+  em {
+    color: grey;
+  }
+  h2, a {
+    color: #c3073f;
+  }
+
+  ul {
+    list-style-type: square;
+  }
+
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #6f2232;
+    border-width: 10px;
+    width: 10%;
+  }
